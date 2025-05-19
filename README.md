@@ -75,8 +75,6 @@
 - Accuracy and Loss Curves (CNN, GRU, BiGRU)
 - Horizontal Bar Chart: Model Accuracy Comparison
 
-![Accuracy Chart](assets/accuracy_chart.png)
-
 ---
 
 ## ⚙️ Installation

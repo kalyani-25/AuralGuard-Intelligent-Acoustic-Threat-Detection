@@ -60,11 +60,12 @@
 
 | Model                  | Accuracy (%) |
 |------------------------|--------------|
-| ✅ CNN (Deep Learning)       | **99.17%**  
-| K-Nearest Neighbors (KNN)   | 97.50%  
-| Bidirectional GRU           | 95.83%  
-| Random Forest               | 95.83%  
-| Decision Tree               | 89.17%  
+| ✅ CNN (Deep Learning)       | **98.33%**  
+| Bidirectional GRU           | 96.67%  
+| Random Forest               | 87.50%  
+| Decision Tree               | 87.50%  
+| SVM                         | 87.50%  
+| K-Nearest Neighbors (KNN)   | 68.75%  
 
 > ✅ **CNN achieved the highest accuracy**, making it the best candidate for real-time deployment in acoustic surveillance systems.
 

@@ -81,6 +81,4 @@
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/auralguard
-cd auralguard
 pip install -r requirements.txt
